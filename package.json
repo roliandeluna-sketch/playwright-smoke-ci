@@ -1,0 +1,15 @@
+{
+  "name": "playwright-socks5-smoke-test",
+  "version": "1.0.0",
+  "description": "Basic Playwright SOCKS5 smoke test",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
